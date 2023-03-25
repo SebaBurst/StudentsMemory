@@ -1,0 +1,234 @@
+.banneroculto{
+    background-color: #3498db   !important; 
+    height: 80px  !important;
+
+}
+
+.bannerUser {
+    
+    background-color: #3498db   !important; 
+    height: 80px  !important;
+    display: flex !important;
+    justify-content: center !important;
+    position: fixed !important;
+    width: 100% !important;
+    z-index: 9999 !important;
+}
+
+
+.dashboardAdmin{
+    width: 84%;
+    top: 30%;
+    position: absolute;
+    left: 6%;
+
+
+}
+.bannerUserAdmin {
+    
+    background-color: #03568d   !important; 
+    height: 80px  !important;
+    display: flex !important;
+    justify-content: center !important;
+    width: 100% !important;
+    z-index: 9999 !important;
+}
+.dividerText h2{
+    font-family: roboto;
+    font-size: 25px;
+    color: #03568d ;
+    font-weight: bold;
+}
+.bannerLogotipo {
+    width: 70% !important;
+}
+
+.menuBotones{
+    float: left !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin-left: 60% !important;
+    width: 30% !important;
+}
+.contenedorBg{
+    background-color: #E5E7E9 !important;
+    height: 300px !important;
+    display: flex !important;
+    align-items: flex-start !important;
+    margin-left: 130px;
+}
+
+.textLine{
+    margin-left: 170px !important;
+    height: 80px !important;
+    background-color: #E5E7E9 !important;
+    width: 80% !important;
+    margin-top: 32px;
+}
+.dividerBg{
+
+    height: 0.25rem !important;
+    width: 100% !important;
+    background: #03568d !important;
+    font-family: roboto !important;
+}
+.footer{
+    background-color: #3498db   !important; 
+    height: 80px  !important;
+
+}
+
+
+.profesorBG{
+    background-color: #E5E7E9 !important;
+}
+
+.studentBG{
+    background-color: #E5E7E9 !important;
+    display: flex !important;
+    align-items: flex-start !important;
+}
+
+.leftStudent{
+    width: 66% !important;
+    margin-left: 6% !important;
+}
+.rightStudent{
+    width: 30% !important;
+}
+
+
+.reunion-title{
+   
+    background: #3498db !important;
+    width: 90% !important;
+    margin-left: 30px !important;
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
+    padding: 10px 4% !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    position: relative !important;
+
+}
+
+.reunion-title p {
+    color: white !important;
+    font-family: roboto !important;
+    font-weight: bold !important;
+
+
+}
+
+.reunion-bg{
+
+    height: 388px !important;
+    background: white !important;
+    width: 90% !important;
+    margin-left: 30px !important;
+    border-radius: 0 !important;
+    padding: 10px 4% !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    position: relative !important;
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+
+
+
+}
+
+.reunion{
+    margin: 18% 0px 0px 0px !important;
+}
+.repository-title{
+    background: #3498db !important;
+    width: 90% !important;
+    margin-left: 30px !important;
+    border-radius: 0 !important;
+    padding: 10px 4% !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    position: relative !important;
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
+}
+
+.repository-title p {
+    color: white !important;
+    font-family: roboto !important;
+    font-weight: bold !important;
+
+
+}
+
+.repository-bg{
+    height: 200px !important;
+    background: white !important;
+    width: 90% !important;
+    margin-left: 30px !important;
+    border-radius: 0 !important;
+    padding: 10px 4% !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    position: relative !important;
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+
+
+
+}
+
+.repository{
+    margin: 3% 0px 0px 0px !important;
+}
+
+
+
+.area-name{
+    background: #3498db !important;
+    width: 25% !important;
+    margin-left: 82px !important;
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+    padding: 10px 4% !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    position: relative !important;
+}
+
+
+.bgInvite{
+    width: 80%;
+    margin-left: 9%;
+    margin-top: 3%;
+}
+.area-proyect{
+    margin-bottom: 25px !important;
+    margin-top: 50px !important;
+
+}
+.area-name p {
+    color: white !important;
+    font-family: roboto !important;
+    font-weight: bold !important;
+}
+
+.bg-area{
+    margin-left: 82px !important;
+    background-color: white !important;
+    width: 25% !important;
+    height: 50px !important;
+    justify-content: space-between !important;
+    position: relative !important;
+    padding: 10px 4% !important;
+    border-bottom-left-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+
+}
+
+.bg-area p {
+    padding: 0px !important;
+
+}

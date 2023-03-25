@@ -1,0 +1,61 @@
+.imagenPerfil{
+    width: 100% !important;
+
+}
+.imagenPerfil img {
+    width: 20% !important;
+    border-radius: 25px !important;
+    cursor: pointer !important;
+
+}
+.submenuBanner{
+    background-color: white !important;
+    height: 300px !important;
+    border-radius: 20px !important;
+    position: absolute !important;
+    width: 200px !important;
+    box-shadow: 0px 40px 20px 0px rgba(0,0,0,0.2) !important;
+
+}
+
+.submenuBanner img {
+    margin: 21px 35px 23px 25px !important;
+    width: 70% !important;
+    border-radius: 100% !important;
+}
+.submenuBanner a {
+    font-family: roboto !important;
+    margin-left: 13% !important;
+}
+
+.submenuBanner li {
+    width: 65% !important;
+    border-radius: 20px !important;
+    height: 20px !important;
+    cursor: pointer !important;
+    list-style-type: none !important;
+    margin: 0 !important;
+    padding: 7px !important;
+
+
+}
+.submenuBanner button {
+    width: 65% !important;
+    border-radius: 20px !important;
+    height: 20px !important;
+    cursor: pointer !important;
+    list-style-type: none !important;
+    margin: 0 !important;
+    padding: 7px !important;
+
+}
+.submenuBanner li:hover {
+    background-color: #EC7063 !important;
+    color: white !important;
+
+}
+.modal-content{
+    margin: 144px 39px 20px 28px !important;
+
+}
+

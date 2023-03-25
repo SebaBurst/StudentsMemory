@@ -1,0 +1,99 @@
+.tituloBg{
+    padding: 20px !important;
+    height: 130px !important;
+    margin-left: 59px !important;
+    background-color: transparent !important;
+    display: flex !important;
+    align-items: flex-start !important;
+    top: 10% !important;
+    
+}
+.editName{
+
+    margin-left: 30px !important;
+    width: 100% !important;
+
+}
+
+.editTitulo{
+    width: 50% !important;
+    border-radius: 10px;
+    padding: 0px 10% !important;
+    background-color: #3498db !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    position: relative !important;
+
+}
+
+.botonProfe{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    position: relative !important;
+    margin-top: 5%;
+    margin-left: 7%;
+    
+}
+
+
+
+.editTitulo p{
+        color: white !important;
+        font-family: roboto !important;
+        font-weight: bold !important;
+        margin: 10px;
+}
+.editName h2{
+    padding: 10px;
+    font-weight: bold;
+    font-family: roboto !important;
+    color: #03568d;
+    margin-top: 15px;
+
+}
+.fotoUser{
+    width: 13% !important;
+}
+.fotoUser img {
+    width: 100% !important;
+    border-radius: 60px !important;
+}
+
+
+.plan-title{
+    background: #3498db !important;
+    width: 80% !important;
+    margin-left: 82px !important;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px 4% !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    position: relative !important;
+
+}
+
+.plan-title p{
+
+    color: white !important;
+    font-family: roboto !important;
+    font-weight: bold !important;
+
+}
+
+.plan-bg{
+    height: 70px !important;
+    background: white !important;
+    width: 80% !important;
+    margin-left: 82px !important;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 10px 4% !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    position: relative !important;
+
+
+}

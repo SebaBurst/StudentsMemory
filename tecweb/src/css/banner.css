@@ -1,0 +1,30 @@
+.bannerOculto{
+    
+}
+
+
+
+.banner {
+    background-color: white !important; 
+    height: 80px !important;
+    display: flex !important;
+    justify-content: center !important;
+    position: fixed !important;
+    width: 100% !important;
+    z-index: 9999 !important;
+}
+
+.fondoLogo {
+    margin-left: 46% !important;
+    height: 150% !important;
+    width: 8% !important;
+    background-color: #ff8a00 !important;
+}
+
+.logo {
+    color: white !important;
+    font-weight: bold !important;
+    text-align: center !important;
+    margin-top: 20% !important;
+    font-size: 150%
+}

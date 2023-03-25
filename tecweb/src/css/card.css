@@ -1,0 +1,66 @@
+.bgCard{
+    cursor: pointer;
+    background-color: #03568d !important;
+    border-radius: 20px !important;
+    height: 217px !important;
+    width: 343px !important;
+    margin-left: 40px !important;
+    margin-top: 36px !important;
+
+}
+
+.bgCard:hover {
+    transform: scale(1.03) !important;
+
+}
+
+.card-title{
+    color: white !important;
+    padding: 16px !important;
+    height: 197px !important;
+    text-align: center !important;
+    font-family: roboto thin !important;
+    font-weight: 100 !important;
+    font-size: 25px !important;
+    
+}
+
+.profile-card{
+    background-color: white !important;
+    width: 100% !important;
+    height: 20% !important;
+    display: flex !important;
+    align-items: flex-start !important;
+    border-bottom-left-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+}
+.profile-card img {
+    width: 8% !important;
+    border-radius: 20px !important;
+    margin-left: 14px !important;
+    margin-top: 6px !important;
+}
+.profile-card h2 {
+    margin-left: 4px !important;
+    font-family: roboto thin !important;
+    font-size: 16px !important;
+    margin: 13px;
+}
+
+
+
+.bgCardco{
+    cursor: pointer;
+    background-color: #3498DB !important;
+    border-radius: 20px !important;
+    height: 217px !important;
+    width: 343px !important;
+    margin-left: 40px !important;
+    margin-top: 36px !important;
+
+}
+
+.bgCardco:hover {
+    transform: scale(1.03) !important;
+
+}

@@ -1,0 +1,39 @@
+.document-title{
+    background: #3498db !important;
+    width: 84% !important;
+    margin-left: 82px !important;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px 4% !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    position: relative !important;
+}
+
+.document-title p {
+    color: white !important;
+    font-family: roboto !important;
+    font-weight: bold !important;
+
+
+}
+
+.document-bg{
+    height: 200px !important;
+    background: white !important;
+    width: 84% !important;
+    margin-left: 82px !important;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 10px 4% !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    position: relative !important;
+
+
+
+}
+
+.document-status{
+    margin: 5% 0px 0px 0px !important;
+}
